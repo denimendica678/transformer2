@@ -1,0 +1,13 @@
+C:\Users\denim\source\repos\transformator2\transformator2\bin\Debug\transformator2.exe.config
+C:\Users\denim\source\repos\transformator2\transformator2\bin\Debug\transformator2.exe
+C:\Users\denim\source\repos\transformator2\transformator2\bin\Debug\transformator2.pdb
+C:\Users\denim\source\repos\transformator2\transformator2\obj\Debug\transformator2.csprojAssemblyReference.cache
+C:\Users\denim\source\repos\transformator2\transformator2\obj\Debug\transformator2.Filtriranje.resources
+C:\Users\denim\source\repos\transformator2\transformator2\obj\Debug\transformator2.Pregled.resources
+C:\Users\denim\source\repos\transformator2\transformator2\obj\Debug\transformator2.Properties.pocetna.resources
+C:\Users\denim\source\repos\transformator2\transformator2\obj\Debug\transformator2.Properties.Resources.resources
+C:\Users\denim\source\repos\transformator2\transformator2\obj\Debug\transformator2.Unos.resources
+C:\Users\denim\source\repos\transformator2\transformator2\obj\Debug\transformator2.csproj.GenerateResource.cache
+C:\Users\denim\source\repos\transformator2\transformator2\obj\Debug\transformator2.csproj.CoreCompileInputs.cache
+C:\Users\denim\source\repos\transformator2\transformator2\obj\Debug\transformator2.exe
+C:\Users\denim\source\repos\transformator2\transformator2\obj\Debug\transformator2.pdb
